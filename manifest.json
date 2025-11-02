@@ -14,12 +14,12 @@
   ],
   "screenshots": [
     {
-      "src": "/img/dark/summary_large_image.png",
+      "src": "/img/summary_large_image.png",
       "sizes": "1200x630",
       "type": "image/png"
     },
     {
-      "src": "/img/dark/summary_large_image.png",
+      "src": "/img/summary_large_image.png",
       "sizes": "1200x630",
       "type": "image/png",
       "form_factor": "wide"
