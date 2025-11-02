@@ -79,6 +79,7 @@ ul {
   padding: 0;
   margin-bottom: 2rem;
   margin-top: 0.5rem;
+  line-height: 2rem;
 }
 ul.links {
   display: flex;
